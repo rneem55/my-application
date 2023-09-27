@@ -1,5 +1,5 @@
 import re
-mystr = "rneem so"
+mystr = "rneem"
 
 for i in mystr:
     if re.search("(R|r)",i):
